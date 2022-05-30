@@ -1,8 +1,39 @@
-# DIO CARD
+# Dio Card - Introdução ao React Native
 
 Esse projeto foi feito durante um bootcamp da Dio.me.
 
 Trata-se de um projeto simples, que contém uma foto, nome, nickname e descrição do usuário e um botão, que leva a pessoa até o Github. Um primeiro contato com React Native.
+
+## Conteúdos
+
+* Conhecendo o React Native
+    * O que é React Native
+    * O que é cross-plataform
+    * Origem do RN
+* Documentação
+    * Componentes
+    * API
+    * Comunidade (Blog)
+* Setup
+    * Node
+    * Java 11 (JDK)
+    * Yarn
+    * Android Studio
+        * Download android S
+        * Criar um avd (Android Virtual Device)
+* Criação do projeto
+    * Uso do React Native CLI
+    * Estruturas de pastas do projeto
+* Projeto Profile
+    * View
+    * Text
+    * SafeAreaView
+    * Image
+    * Flex-box
+    * Style
+    * Pressable
+    * Linking API
+    * Add código nativo no AndroidManifest.xml para abrir link
 
 ## Tech Stack
 
